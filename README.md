@@ -4,7 +4,7 @@
 ![TryHackMe Logo](https://tryhackme.com/img/THMlogo.png)
 
 **Author**: Housma  
-**Date**: November 2023  
+**Date**: 24-03-2025  
 **Challenge**: W1seGuy  
 **Platform**: TryHackMe  
 **Difficulty**: Easy  
@@ -104,6 +104,7 @@ if __name__ == "__main__":
 ```
 
 ## Results
+![Screenshot of terminal](run.jpg)
 
 - **Flag 1**: Retrieved from the decrypted ciphertext.
 - **Flag 2**: Received by submitting the correct key to the server.
