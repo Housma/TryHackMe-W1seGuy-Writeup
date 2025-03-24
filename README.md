@@ -19,7 +19,6 @@
 - [Results](#results)
 - [Key Takeaways](#key-takeaways)
 - [Prevention](#prevention)
-- [About Me](#about-me)
 
 ## Challenge Overview
 
@@ -104,7 +103,7 @@ if __name__ == "__main__":
 ```
 
 ## Results
-![Screenshot of terminal](run.jpg)
+![Screenshot of terminal](https://raw.githubusercontent.com/Housma/TryHackMe-W1seGuy-Writeup/refs/heads/main/run.JPG)
 
 - **Flag 1**: Retrieved from the decrypted ciphertext.
 - **Flag 2**: Received by submitting the correct key to the server.
