@@ -11,6 +11,9 @@
 **Category**: Cryptography  
 **Tags**: `XOR` `Known-Plaintext Attack` `pwntools`
 
+**W1seGuy Room** on TryHackMe:  
+[https://tryhackme.com/room/w1seguy](https://tryhackme.com/room/w1seguy)
+
 ## Table of Contents
 - [Challenge Overview](#challenge-overview)
 - [Source Code Analysis](#source-code-analysis)
